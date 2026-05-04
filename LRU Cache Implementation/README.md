@@ -1,4 +1,4 @@
-# LRU Cache
+# LRU Cache Implementation
 
 ## 📌 Concept
 Removes least recently used item.
